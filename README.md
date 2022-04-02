@@ -1,4 +1,14 @@
+
+
+
+
 ### Привет, меня зовут Олег я front-end разработчик 👋
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TuMaN1122)
+
+
+
 
 <!--
 **TuMaN1122/TuMaN1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
