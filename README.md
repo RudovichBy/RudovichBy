@@ -1,17 +1,15 @@
-![front-end разработчик](https://github.com/TuMaN1122/TuMaN1122.github.io/blob/master/temp/images/header_readme_2.jpg?raw=true)
+![front-end разработчик](./assets/header_readme_2.jpg)
 
 <h2 align="center"><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40'/>Привет, меня зовут Олег, я front-end разработчик</h2>
-<!-- ## Привет, меня зовут Олег, я front-end разработчик 👋 -->
-***
 
-#### 👨🏻‍💻 &nbsp;Обо мне
+### 👨🏻‍💻 &nbsp;Обо мне
 
 💡 &nbsp;Занемаюсь вёрсткой сайтов с чистым, кроссбраузерным, валидным кодом. Адаптивная верстка. HTML5, CSS3, JavaScript, jQuery, cms WordPress.
 
 💡 &nbsp;Помимо совершенствования своих навыков в верстке сайтов стараюсь углубить свои знания в JavaScript и PHP.
 ***
 
-#### 🛠 &nbsp;Технический стек
+### 🛠 &nbsp;Технический стек
 <!-- ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -48,7 +46,7 @@
 ![powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ***
 
-#### 🤝🏻 &nbsp;Связь
+### 🤝🏻 &nbsp;Связь
 
 <p>
 <a href="mailto:olegtor11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -57,21 +55,6 @@
 
 ***
 
-#### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Analytics
 
 ![front-end разработчик](https://github-readme-stats.vercel.app/api/top-langs/?username=TuMaN1122&layout=compact&langs_count=8&theme=algolia)
-
-<!--
-**TuMaN1122/TuMaN1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
