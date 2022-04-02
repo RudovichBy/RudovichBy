@@ -1,11 +1,11 @@
-
+![front-end разработчик](https://github.com/TuMaN1122/TuMaN1122.github.io/blob/master/temp/images/header_readme.jpg?raw=true)
 
 
 
 ### Привет, меня зовут Олег я front-end разработчик 👋
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TuMaN1122)
+![front-end разработчик](https://github-readme-stats.vercel.app/api/top-langs/?username=TuMaN1122)
 
 
 
