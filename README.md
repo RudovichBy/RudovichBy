@@ -57,4 +57,4 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-![front-end разработчик](https://github-readme-stats.vercel.app/api/top-langs/?username=TuMaN1122&layout=compact&langs_count=8&theme=algolia)
+![front-end разработчик](https://github-readme-stats.vercel.app/api/top-langs/?username=RudovichBy&layout=compact&langs_count=8&theme=algolia)
