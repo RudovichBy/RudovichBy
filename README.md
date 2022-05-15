@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;Обо мне
 
-💡 &nbsp;Занемаюсь вёрсткой сайтов с чистым, кроссбраузерным, валидным кодом. Адаптивная верстка. HTML5, CSS3, JavaScript, jQuery, cms WordPress.
+💡 &nbsp;Занимаюсь версткой сайтов с чистым, кроссбраузерным, валидным кодом. Адаптивная верстка. HTML5, CSS3, JavaScript, jQuery, cms WordPress.
 
 💡 &nbsp;Помимо совершенствования своих навыков в верстке сайтов стараюсь углубить свои знания в JavaScript и PHP.
 ***
@@ -48,11 +48,8 @@
 
 ### 🤝🏻 &nbsp;Связь
 
-<p>
-<a href="mailto:olegtor11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="tg://resolve?domain=TuMaN1122"><img src="https://img.shields.io/badge/Telegram-A6A9AA?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-</p>
-
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olegtor11@gmail.com)
+[![](https://img.shields.io/badge/Telegram-A6A9AA?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.im/@TuMaN1122)
 ***
 
 ### Сайт портфолио
@@ -63,4 +60,8 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
+<<<<<<< HEAD
 ![front-end разработчик](https://github-readme-stats.vercel.app/api/top-langs/?username=TuMaN1122&layout=compact&langs_count=8&theme=algolia)
+=======
+![front-end разработчик](https://github-readme-stats.vercel.app/api/top-langs/?username=RudovichBy&layout=compact&langs_count=8&theme=algolia)
+>>>>>>> 30f1e69870ddeff5899f3d914f8046144a203fb3
