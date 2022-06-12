@@ -1,6 +1,6 @@
 ![front-end разработчик](./assets/header_readme_2.jpg)
 
-<h2 align="center"><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40'/>Привет, меня зовут Олег, я front-end разработчик</h2>
+<h2 align="center"><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40'/>Привет, меня зовут Олег, я занимаюсь версткой сайтов</h2>
 
 ### 👨🏻‍💻 &nbsp;Обо мне
 
